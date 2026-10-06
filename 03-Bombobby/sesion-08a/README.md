@@ -14,6 +14,7 @@ lógica de las clases
 - (atributo) todos tienen pelo, pero el pelo de bombobby es desordenado todos los días.
 
  _wikidata_
+ 
  _oop_
 
 ## encargos

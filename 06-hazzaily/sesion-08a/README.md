@@ -1,6 +1,67 @@
 # sesion-08a
 
-## apuntes sesión
+2026-10-06
+
+## Repaso clases
+
+Las clases se componen de:
+
+ - La clase
+ - Atributos
+ - Metodos
+
+```cpp
+
+class Algo {
+
+ // atributos[]
+
+bool
+int
+
+ // metodos()
+
+}
+
+```
+
+## Ejemplo de clase Led:
+
+```
+clase Lucecita {
+
+```
+¿Cómo describimos la luz?
+
+Variables:
+
+Encendido - si
+Apagado - no
+
+Brillo = puede variar entre, por ejemplo: 0 - 255.
+
+Umbral = hacia arriba (on), hacia abajo (off).
+
+Parpadeo - tiempo
+
+Por ejemplo:
+
+```cpp
+LuzNavidad =  Lucecita[100];
+```
+
+Color = Por ejemplo: rojo, verde, azul (existen LEDs con 4 patitas para controlar el color que tiene el LED).
+
+Ejemplo:
+
+```cpp
+clase EspantaCuco {
+
+ int precio;
+ Lucecita espantadora;
+ Sensor luminoso;
+}
+```
 
 ## encargos
 

@@ -15,10 +15,13 @@ Un ejemplo de clases, son las mesas de la página de ikea, la clase son las mesa
 Nos permiten crear subclases, como por ejemplo galletas y galletas veganas.
 
 ClaseHelado.{
+
 //tiene los parámetros:
 
 
 }
+
+El archivo JSON en wokwi es cono lo que programa, o hace las conexiones del microchip, lo que yo creo con el mouse, ya sean botones o cables, son comandos que se programan en este archivo.
 ## encargos
 
 ## lectura

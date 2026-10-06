@@ -18,8 +18,8 @@ El autor vuelve a relacionar estas obras con antecedentes como la poesía concre
 
 También habla de cómo la poesía digital puede romper con la lectura tradicional, porque el texto puede cambiar, moverse o incluso generar distintas versiones. Entonces la experiencia del lector también se vuelve parte de la obra.
 
-### Citas
-
+>### Citas
+>
 > “The generation of a computer poem is a fusion between the software/algorithm and the interface.” (p. 81)
 >
 > “The computer became a convenient tool to manipulate the appearance and presentation of text.” (p. 86)

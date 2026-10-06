@@ -2,6 +2,23 @@
 
 ## apuntes sesión
 
+PROGRAMACIÓN ORIENTADA A OJETOS (POO)
+
+Sirve para ahorrar espacio, tiempo y ordenar.
+La mayoría de errores en programación es por hacer copia y pega.
+Así por ejemplo si tenemos que cambiar algún parámetro como algún tiempo lo cambiamos solo una vez y no nueve veces.
+El constructor se usa para crear objetos a partir de la clase, que tiene una sintaxis en particular.
+Las clases pueden ir dentro de otras clases.
+Hay conceptos que son tan lejanos que no los vamos a utilizar.
+Un ejemplo de clases, son las mesas de la página de ikea, la clase son las mesas y luego tienen muchos parámetros aunque todas son mesas, tienen diferentes colores, patas o materiales.
+
+Nos permiten crear subclases, como por ejemplo galletas y galletas veganas.
+
+ClaseHelado.{
+//tiene los parámetros:
+
+
+}
 ## encargos
 
 ## lectura

@@ -21,5 +21,5 @@ También habla de cómo la poesía digital puede romper con la lectura tradicion
 ### Citas
 
 > “The generation of a computer poem is a fusion between the software/algorithm and the interface.” (p. 81)
-
+>
 > “The computer became a convenient tool to manipulate the appearance and presentation of text.” (p. 86)

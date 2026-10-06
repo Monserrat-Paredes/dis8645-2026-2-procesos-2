@@ -13,9 +13,8 @@ lógica de las clases
 - persona, todos pueden ser personas pero solo yo puedo ser Belén alias bombobby (nombre artístico)
 - (atributo) todos tienen pelo, pero el pelo de bombobby es desordenado todos los días.
 
- _wikidata_
- 
- _oop_
+
+ _wikidata_ / _oop_
 
 ## encargos
 

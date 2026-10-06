@@ -4,6 +4,157 @@ martes 2026-10-06
 
 ## apuntes sesión
 
+las clases son:
+- atributos (acciones)
+- métodos (funciones)
+
+tambien la clases nos permiten crear subclases
+
+**ejemplo de clase**
+
+```cpp
+
+class Algo {
+
+// atributos []
+bool
+int
+
+// metodos ()
+
+}
+```
+
+#### ejemplo 1 de clase Lucecita/LED
+
+- clase Lucecita
+- en general: **encendido = sí o no**
+- algunos de los parámetros podría ser la intensidad de la luz: **brillo = 2.55 (encendido) o 0 (apagado)**
+- parpadeo = tiempo
+  - ejemplo parpadero:
+
+```cpp
+luzNavidad = Lucecita [100];
+```
+
+- color = **rojo, verde o azul**
+- interacción: **Botón = Lucecita = usuario**
+
+### ejemplo 1.2 de clase EspantaCuco
+
+```cpp
+int precio;
+Lucecita espantadora;
+sensor luminoso;
+```
+
+en esta clase pudimos utilizar la clase Lucecita y pasaria siendo una subclase de EspantaCuco
+
+### ejemplo 2 de clase Helado
+
+```cpp
+class Helado
+
+int precio;
+cremosidad;
+vegano
+```
+
+
+### ejemplo de clases creada por aaron y matias
+
+
+hoy hicimos 3 clases: **Boton, Perilla y Lucecita**
+
+main.cpp
+
+```cpp
+// hay 3 elementos
+// lucecita
+// perilla
+// pulsador
+
+// lucecita necesita R de 220
+// perilla necesita nada
+// pulsador necesita R de 10k
+
+// entradas
+// o sensores
+// perilla - posicion rotacional / giro
+// pulsador - si o no hay presion
+
+// salidas
+// o actuadores
+// lucecita
+
+// ya pero y?
+
+// pulsador: prender y apagar todo
+// potenciometro: frecuencia de parpadeo
+
+// lucecita: prender y apagarse
+// segun lo que diga boton y perilla
+
+// por lo tanto
+// boton tiene dos estados
+// prendido y apagado
+
+// perilla va a tener
+// una posicion que va a ser
+// usada por el sistema
+// para impactar en parpadeo lucecita
+
+
+
+#include <stdio.h>
+#include "pico/stdlib.h"
+
+#include "Boton.h"
+#include "Perilla.h"
+#include "Lucecita.h"
+
+int main() {
+  stdio_init_all();
+
+
+  // instanciar Boton llamado pulsador
+  // a partir de la clase Boton
+  // con el parametro
+  Boton pulsador(7);
+
+  // lo mismo pero con perilla
+  Perilla parpadeo(26);
+
+  Lucecita luz(6);
+
+
+  while (true) {
+    
+    // leer perilla parpadeo
+    parpadeo.leer();
+
+    // si perilla esta izquierda
+    // led apagado
+    // si perilla esta derecha
+    // led prendido
+
+    if (parpadeo.posicion < 4096 /2) {
+
+      luz.apagar();
+    } else {
+      luz.prender();
+    }
+
+   
+    printf("%d\n", parpadeo.posicion);
+    sleep_ms(250);
+  }
+}
+
+
+```
+
+
 
 ## encargos
 

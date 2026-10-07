@@ -24,7 +24,15 @@ métodos -- función
 ![titulo](./imagenes/clases.jpeg)
 
 ---
-### apuntes varios 
+### Wokwi
+- realizamos durante la clase un ejercicio en wokwi a cerca de cómo programar un botón +  perilla + luz
+<https://wokwi.com/projects/477140774861255681>
+
+**material complementario**
+
+<https://github.com/piruetasxyz/Perilla>
+
+<https://github.com/piruetasxyz/Boton>
 
 OOP -- programación orientada a objetos
 

@@ -21,14 +21,51 @@ atributos -- forma
 métodos -- función
   constructor -- crear objetos a partir de la clase
 ```
+![titulo](./imagenes/clases.jpeg)
+
+---
+### Wokwi
+- realizamos durante la clase un ejercicio en wokwi a cerca de cómo programar un botón +  perilla + luz
+<https://wokwi.com/projects/477140774861255681>
+
+**material complementario**
+
+<https://github.com/piruetasxyz/Perilla>
+
+<https://github.com/piruetasxyz/Boton>
+
 OOP -- programación orientada a objetos
 
 wiki data: base de datos wikipedia
 
-<https://designblog.uniandes.edu.co/blogs/dise2609/files/2009/03/marc-auge-los-no-lugares.pdf>
+h -- promesas
 
+cpp -- cómo hace lo que promete
+
+ADC mayor resolución 0 - 4095 -- 12 bites -- binario (valores potenciómetro) 
+
+<https://designblog.uniandes.edu.co/blogs/dise2609/files/2009/03/marc-auge-los-no-lugares.pdf> 
+
+---
+### caja negra 
+- se mencionó en la clase el término de "caja negra" el cual se le denomina así a cualquier sistema o aparato cuyo funcionamiento interno se desconoce, dándole énfasis en lo que entra (input) y lo que sale (output)
+```
+caja negra input - output
+```
+![titulo](./imagenes/cajanegra.webp)
+
+- filosofía de las cajas negras: este texto se mencionó en clases, lo cual hablé por el discord para que mandaran el link para poder leerlo ya que me interesó el tema
+
+<https://monoskop.org/images/8/8d/Flusser_Vilem_Hacia_una_filosofia_de_la_fotografia.pdf>
+
+---
 ## encargos
 
+1. Una tonelada de fotos, mínimo 3, perillas, botones, luces, descripciones textuales.
+2. Tomar las clases que se hicieron hoy y lograr que parpadeen.
+
+<https://wokwi.com/projects/477140774861255681>
+   
 ## lectura
 - hoy realicé la lectura de un nuevo capítulo llamado ""
 

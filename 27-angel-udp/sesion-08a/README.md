@@ -61,4 +61,30 @@ encargo-08a:
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
+### Solución ercargo
+
+
+| Imagen | Descripción |
+|:---:|:---|
+| ![Perilla giratoria 1](imagenes/perilla_giratoria_1.png) | Es un círculo extruido hacia otro círculo de menor radio, con una diferencia aproximada de 0,4 mm entre ambos. La extrusión tiene una longitud de aproximadamente 2 cm. En la superficie lateral presenta surcos cada 1 mm y, desde el centro de la cara superior, una línea blanca que se extiende hasta el borde exterior de la perilla. |
+| ![Perilla giratoria 2](imagenes/perilla_giratoria_2.png) | Círculos del mismo tamaño, extruidos aproximadamente 2 cm, con una línea blanca que recorre el centro hasta el borde exterior. Presenta surcos distribuidos cada 4 mm aproximadamente por toda la superficie lateral. |
+| ![Perilla giratoria 3](imagenes/perilla_giratoria_3.png) | Círculo extruido 3 mm hasta formar otro del mismo tamaño. En ese punto presenta un relieve diagonal uniforme que se dirige hacia el interior, formando un nuevo círculo de menor tamaño, ubicado aproximadamente a la mitad del radio del primero. Desde este tercer círculo se desarrolla una segunda extrusión diagonal, menos pronunciada, que alcanza una longitud aproximada de 1,5 cm y termina en un círculo aún más pequeño. Esta segunda extrusión presenta surcos verticales cada 1 mm aproximadamente, mientras que las demás superficies son lisas. |
+
+
+| Imagen | Descripción |
+|:---:|:---|
+| ![Botón 1](imagenes/boton_1.png) | Círculo pulsable hacia adentro de color rojo, creado sobre una superficie cilíndrica que lo rodea. Debajo tiene una superficie cuadrada extruida que hace de base, con un tornillo en la base y no en el círculo ni en el cilindro, para unir las piezas. |
+| ![Botón 2](imagenes/boton_2.png) | Círculo rojo extruido que sobresale de un soporte semicircular con surcos en el borde cada 1 mm aprox. Soporte metálico con una parte inferior que está envuelta por plástico y de la cual sobresalen 2 patitas metálicas, una a cada lado. |
+| ![Botón 3](imagenes/boton_3.png) | Círculo de poca extrusión de color rojo que en el centro tiene un palito que lo une a una caja inferior que funciona como mecanismo, pero está oculto por la caja. Los círculos exteriores extruidos mencionados anteriormente se pueden empujar hasta que choquen con la caja que tienen debajo. Tiene 3 flechas curvas en la cara exterior del primer círculo, que son de color blanco, de unos 3 mm de grosor aprox. y van en el sentido de las agujas del reloj, con un leve espacio entre ellas, siguiendo una a la otra y formando un casi círculo que va en una dirección. En la parte inferior del palo, pero antes de llegar a la caja, tiene en su borde surcos cada 1 mm aprox. |
+
+
+
+| Imagen | Descripción |
+|:---:|:---|
+| ![Luz 1](imagenes/luz_1.png) | Brillo envuelto por una cupula curba en su inicio y recta hasta llegar a la superficie recta de soporte de 1cm aprox de largo con 2 paritas de metal que sobre salen del centro pero separadas una de cada cual y una mas larga que otra|
+| ![Luz 2](imagenes/luz_2.png) | tira de plastico negro con cuadrados dispuestos sobre una cara de la tira y los cuadrados alejados unos de cada uno por 1cm aprox, entre ellos hay chips pequeños o circulos o cuadrados mas pequeños pero de metal |
+| ![Luz 3](imagenes/luz_3.png) |  |
+
+
+
 ## lectura

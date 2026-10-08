@@ -61,7 +61,7 @@ encargo-08a:
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
-### Solución ercargo
+### Solución ercargo 1.
 
 
 | Imagen | Descripción |
@@ -85,6 +85,8 @@ encargo-08a:
 | ![Luz 3](imagenes/luz_3.png) | Rectángulo robusto y extruido. En una de sus 2 caras, en la parte larga y ancha, tiene muchos círculos que sobresalen en el interior y que son LED. Los bordes son anchos, con algunas hendiduras largas y sutiles en los 4 bordes más cercanos al exterior de la misma cara para el agarre. Los círculos exteriores están dispuestos en una grilla de 40 por 20, con espacio entre cada circulito LED. |
 
 
+### Solución ercargo 2.
 
+Ya quedó listo el parpadeo por medio de la perilla y está subido a la carpeta de códigos de esta sesión.
 
 ## lectura

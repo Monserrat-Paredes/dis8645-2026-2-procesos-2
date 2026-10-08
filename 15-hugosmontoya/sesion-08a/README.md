@@ -24,6 +24,12 @@ ClaseHelado.{
 El archivo JSON en wokwi es cono lo que programa, o hace las conexiones del microchip, lo que yo creo con el mouse, ya sean botones o cables, son comandos que se programan en este archivo.
 ## encargos
 
+encargo-08a:
+
+1. tomar muchas fotos, mínimo 3 por cada uno de los 3 elementos que estudiamos hoy: perillas, botones, y luces. subir las fotos a su README como respuesta a este encargo, y describirlas textualmente, para con esa info complejizar nuestras clases programadas este viernes.
+
+2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
+
 ## lectura
 
 Aficionados a la criptografía, algo que el gobierno de Estados Unidos había prohibido aprender, desde la Segunda Guerra Mundial pero que, implementaron su uso para los civiles, comenzaron a juntarse y crearon el término "cypherpunks", al principio, cuando solo eran tres personas que se dedicaban a la informática  programación, eran libertarios, aunque a medida que fue creciendo este grupo e iban creando su manifiesto, había integrantes de muchas otras ideologías, y no solo de izquierdas.

@@ -92,15 +92,15 @@ encargo-08a:
 
 ![titulo](./imagenes/luz1.gif)
 
-**luz 1:**
+**luz 1:** luz que parpadea, ya que el computador se encuentra en un estado de pantalla apagada pero de igual forma encendido (suspendido).
 
 ![titulo](./imagenes/luz2.gif)
 
-**luz 2:**
+**luz 2:** luz la cual se guía por el ritmo de la música que suena actualmente en el parlante.
 
 ![titulo](./imagenes/luz3.gif)
 
-**luz 3:**
+**luz 3:** luz del semáforo, la cual una parpadea para advertir a los peatones el no cruzar, porque cambiará de color y dejará pasar a los autos que vienen, y la segunda que se muestra en el gif es la del cambio de color del semáforo de los autos, que funciona como un símbolo de advertencia, próximo al rojo para detenerse.
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 <https://wokwi.com/projects/477140774861255681>

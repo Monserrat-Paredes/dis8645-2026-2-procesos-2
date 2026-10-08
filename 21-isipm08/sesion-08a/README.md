@@ -65,9 +65,44 @@ encargo-08a:
 
 1. tomar muchas fotos, mínimo 3 por cada uno de los 3 elementos que estudiamos hoy: perillas, botones, y luces. subir las fotos a su README como respuesta a este encargo, y describirlas textualmente, para con esa info complejizar nuestras clases programadas este viernes.
 
+
+![titulo](./imagenes/perilla1.jpeg)
+
+**perilla 1:** parlante de mi casa, la cual sirve con un mínimo y un máximo para intensificar el eco y el volumen del micrófono conectado al parlante mediante cable.
+
+![titulo](./imagenes/perilla2.jpeg)
+
+**perilla 2:** microondas, la primera regula tiempo en la cual la comida se calienta dentro del microondas y la segunda tiene distintas funciones, en donde la flecha indica en que función se encuentra actualmente (función alta para calentar comida).
+
+![titulo](./imagenes/perilla3.jpeg)
+
+**perilla 3:** perilla de una radio y parlante, las cuales moderan encendido y apagado de esta + volumen y función, si deseas escuchar radio AM FM o mp3.
+
+![titulo](./imagenes/boton1.jpeg)
+
+**botón 1:** botones de lavadora que tienen dos funciones, encendido y apagado de esta e inicio o pausa de la carga de ropa dentro de esta.
+
+![titulo](./imagenes/boton2.jpeg)
+
+**botón 2:** botones los cuales cumplen la función de dirigir la pantalla de la televisión, ya sea arriba, abajo, al lado, "ok", volumen, etc.
+
+![titulo](./imagenes/boton3.jpeg)
+
+**botón 3:** botones los cuales al presionarlos regulan temperatura y tiempo del calientacamas.
+
+![titulo](./imagenes/luz1.gif)
+
+**luz 1:**
+
+![titulo](./imagenes/luz2.gif)
+
+**luz 2:**
+
+![titulo](./imagenes/luz3.gif)
+
+**luz 3:**
+
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
-
-
 <https://wokwi.com/projects/477140774861255681>
    
 ## lectura

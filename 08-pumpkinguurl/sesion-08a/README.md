@@ -1,109 +1,127 @@
 # sesion-08a
 
 ## apuntes sesión
-Agregaré mis humildes apuntes de la última clase aquí porque se me olvidó subirlos en el repo anterior y
-creo que ya no se pueden subir cosas jeje
 
-29-09
+lógica de las clases - clasificar
 
-martina con m de main
+muchas cosas
 
-en esta interfa se utiliza printf()
+kris puede ser una persona
 
-%d place holder - jefe altiro lo hago - numero entero
+pero no todas las personas pueden ser kris
 
-\n - enter
+las clases nos sirven para modelar
+
+hacer una aproximación burda de la realidad o para crear
+
+oop programación orientada a objetos
 
 
-```cpp
-    printf("entre 6 y 7, el mayor es: %d\n", cualEsMayor(6, 7));
-```
+class Lucecita
 
-doble click
+encendido { si, no
+resumido
 
-0...|01|110|01|10 - entre |01| y |01| doble click
+brillo { 0, 255
 
-en algunos casos nos importa cuando se suelta el botón
+parpadeo - tiempo 
 
-|10| mouse reléase - tirar una flecha en minecraft
+LuzNavidad = Lucecita [100]
 
-class Nombre {
+si eres el primero, préndete 1
 
-   public:
-           int
-variables
-           bool
-atributos
-           char
+si no, haz lo contrario. 0
 
-Nombre(…){  //constructor
+si eras algo, ahora se lo contrario. 0, 1
+
+color = { rojo, azul, verde
+
+
+espantacuco clase
+
+int precio;
+
+Lucecita espantadora; clase de la clase
+
+sensor lumínico; 
+
+existen las clases que pueden ser usadas dentro de otras clases
+
+para lidiar con la complejidad hacemos abstracciones
+
+-----
+
+clase helado { - existen helados que pueden tener
+
+int precio
+
+cremosidad
+
+vegano
+
 }
 
-  abrir(…);
+class HeladoChirimoya {
+
+  heredo Helado;
+  
+  cremosidad = 100
+
 }
-  cerrar(…);
 
-orden
+los h parten con 
 
-1. atributos
+#ifndef
 
-2. método constructor
+#define
 
-3. métodos en general
+diagram.json conexiones
 
-elDeCata.cantidadML - el punto significa que lo de la derecha ira a preguntar a lo de la izq 
+classa Perilla {
+ 
+ //atributos
 
-else - se traduce como e.o.c - en otro caso
-
-si el if no es vdd entonces else
-
-%.1f - f no es d - f es float - el .1 significa que me de solo un decimal 
-
-los float son una aproximación
-
-float fomes caca
+int posición = 0;
 
 
-class Boton{
-
-//atributos
-
-bool presionado = 0;
-
-bool normalAbierto = true;
-
-uint duracionPresionado = 0;
-
-int patita;
-
-uint vecesPresionado = 0;
-
-char [] nombre;
+int patita; 
 
 //constructor
 
-Boton (int nuevaPatita) { 
-   patita = nuevaPatita;
+Perilla (int nuevaPatita);
 
 //métodos
 
-void leer();
-     
-void actualizar ();
+//leer lee en el lugar en el que se solicite leer Boton.leer o Perilla.leer
 
+//por lo que se pueden usar las mismas palabras, la distinción la hace el lugar
 
-una clase implica dos archivos
+void leer ();
 
-Boton. h
+en .cpp hay que incluir los archivos
 
-Boton.cpp
+#include "nombrearchivo.h"
 
-h - header - en algunos casos puede ser hpp - va a haber un resumen de todo - dentro de los botones se puede leer - declaración 
+//agregar constructor y métodos
 
-cpp - c++ - como se lee
+.cpp explica lo que hace h
 
-#ifndef 
+Perilla (int nuevaPatita) {
+
+//perilla constructor solo existe dentro de las perillas, dentro de la clase perilla
+
+//este prefijo
+
+//Perilla::
+
+//significa dentro de la clase Perilla
+
+}
+
+}
+
  
 ## encargos
 
 ## lectura
+

@@ -67,8 +67,6 @@ encargo-08a:
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
-1. Una tonelada de fotos, mínimo 3, perillas, botones, luces, descripciones textuales.
-2. Tomar las clases que se hicieron hoy y lograr que parpadeen.
 
 <https://wokwi.com/projects/477140774861255681>
    

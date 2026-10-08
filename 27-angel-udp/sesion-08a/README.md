@@ -78,12 +78,12 @@ encargo-08a:
 | ![Botón 3](imagenes/boton_3.png) | Círculo de poca extrusión de color rojo que en el centro tiene un palito que lo une a una caja inferior que funciona como mecanismo, pero está oculto por la caja. Los círculos exteriores extruidos mencionados anteriormente se pueden empujar hasta que choquen con la caja que tienen debajo. Tiene 3 flechas curvas en la cara exterior del primer círculo, que son de color blanco, de unos 3 mm de grosor aprox. y van en el sentido de las agujas del reloj, con un leve espacio entre ellas, siguiendo una a la otra y formando un casi círculo que va en una dirección. En la parte inferior del palo, pero antes de llegar a la caja, tiene en su borde surcos cada 1 mm aprox. |
 
 
-
 | Imagen | Descripción |
 |:---:|:---|
-| ![Luz 1](imagenes/luz_1.png) | Brillo envuelto por una cupula curba en su inicio y recta hasta llegar a la superficie recta de soporte de 1cm aprox de largo con 2 paritas de metal que sobre salen del centro pero separadas una de cada cual y una mas larga que otra|
-| ![Luz 2](imagenes/luz_2.png) | tira de plastico negro con cuadrados dispuestos sobre una cara de la tira y los cuadrados alejados unos de cada uno por 1cm aprox, entre ellos hay chips pequeños o circulos o cuadrados mas pequeños pero de metal |
-| ![Luz 3](imagenes/luz_3.png) |  |
+| ![Luz 1](imagenes/luz_1.png) | Brillo envuelto por una cúpula curva en su inicio y recta hasta llegar a la superficie de soporte de 1 cm aprox. de largo, con 2 patitas de metal que sobresalen del centro, pero separadas entre sí y una más larga que la otra. |
+| ![Luz 2](imagenes/luz_2.png) | Tira de plástico negro con cuadrados dispuestos sobre una cara de la tira, separados entre sí por 1 cm aprox. Entre ellos hay chips pequeños, círculos o cuadrados más pequeños, pero de metal. |
+| ![Luz 3](imagenes/luz_3.png) | Rectángulo robusto y extruido. En una de sus 2 caras, en la parte larga y ancha, tiene muchos círculos que sobresalen en el interior y que son LED. Los bordes son anchos, con algunas hendiduras largas y sutiles en los 4 bordes más cercanos al exterior de la misma cara para el agarre. Los círculos exteriores están dispuestos en una grilla de 40 por 20, con espacio entre cada circulito LED. |
+
 
 
 

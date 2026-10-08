@@ -90,3 +90,25 @@ encargo-08a:
 Ya quedó listo el parpadeo por medio de la perilla y está subido a la carpeta de códigos de esta sesión.
 
 ## lectura
+
+Se presenta Scratch 3 como una forma más sencilla de comenzar a programar en Raspberry Pi. Diferente de otros lenguajes donde hay que escribir instrucciones, en Scratch se utilizan bloques de colores que se van uniendo para crear programas. También se explica su interfaz, donde aparecen partes como el escenario, los objetos, la lista de objetos, la paleta de bloques y el área de código.
+
+Después se muestra cómo hacer el primer programa en Scratch. Para esto se utiliza el bloque “decir ¡Hola!” y se une con el bloque que se activa al hacer clic en la bandera verde. Los bloques funcionan como piezas de un rompecabezas, ya que se pueden arrastrar y unir entre ellos. Al presionar la bandera verde, el gato de Scratch ejecuta el programa y dice “¡Hola!”.
+
+En las pág. 58 y 59 se explica que antes de continuar es recomendable ponerle un nombre al programa y guardarlo. Después se comienza a trabajar con la secuenciación, donde las instrucciones se ejecutan una después de otra. Como hacer que el gato avance 10 pasos, reproduzca un sonido y luego retroceda 10 pasos.
+
+Y en la pág. 60 se prueba esta secuencia con la bandera verde. También se muestra que el programa se puede modificar cambiando el orden de los bloques. Por ejemplo, se puede colocar una espera de 1 segundo para que las acciones no sean tan rápidas y sea más fácil notar lo que está pasando en la pantalla.
+
+2 Citas:
+
+1. “Scratch construyes tu programa paso a paso utilizando bloques”.
+
+2. “Los programas informáticos, incluso los más simples, se componen de una lista de instrucciones”.
+   
+Pregunta:
+
+¿Por qué en Scratch es importante el orden en que se colocan los bloques dentro de una secuencia?
+
+Referente:
+
+Scratch 3 y su forma de programación mediante bloques, incluyendo su interfaz, el uso de objetos, el área de código, la creación de un primer programa y la organización de instrucciones en una secuencia.

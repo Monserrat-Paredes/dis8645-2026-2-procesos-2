@@ -103,8 +103,12 @@ encargo-08a:
 **luz 3:** luz del semáforo, la cual una parpadea para advertir a los peatones el no cruzar, porque cambiará de color y dejará pasar a los autos que vienen, y la segunda que se muestra en el gif es la del cambio de color del semáforo de los autos, que funciona como un símbolo de advertencia, próximo al rojo para detenerse.
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
+
 <https://wokwi.com/projects/477140774861255681>
-   
+
+**wokwi nuevo**
+<https://wokwi.com/projects/477358360928893953>
+
 ## lectura
 - hoy realicé la lectura de un nuevo capítulo llamado ""
 

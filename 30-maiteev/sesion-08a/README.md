@@ -1,6 +1,30 @@
 # sesion-08a
 
 ## apuntes sesión
+2026-10-06 
+ejemplo lucecita : 
+- tiene un estado de encendido: si o no 
+- el brillo va entre 0 a 255
+- umbral es como la distancia entre encendido o no 
+- parpadeo y tiempo 
+- Alberto Fuguet 
+- las clases nos permiten hacer subclases  
+- al ingresar una perilla en la class siempre hay que poner los atributos,constructor y el metodo. 
+
+ ```cpp
+//atributos
+int posicion= 0; 
+int patita;
+
+//constructor 
+Perilla (int Nuevapatita) 
+
+//metodos
+void leer(); 
+ ```
+
+-Perilla:: significa un llamado de que esta adentro de esa clase 
+- ADC tiene mayor resolucion son 12 bits 
 
 ## encargos
 

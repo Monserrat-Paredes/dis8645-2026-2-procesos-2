@@ -50,6 +50,14 @@ Bueno su funcionamiento es que cambia la velocidad de rotación del motor entre 
 ![imagen radio](imagenes/radio-potenciometro.jpeg)
 Aquí tengo fotos de la radio de mi casa, esta el sistema de la perilla del volumen donde al girarlo en sentido horario o antihorario, envía señales digitales para  ajustar el nivel de salida de audio, donde este potenciometro presenta tope de giro.
 
+# HERVIDOR
+![imagen hervidor](imagenes/luz-hervidor.jpeg)
+Este hervidor tiene su luz roja que solamente se enciende cuando se genera la acción de bajar la perilla y calentar el agua,obvio se apaga cuando el agua llego a su temperatura maxima.
+
+# CAFETERA
+![imagen cafetera](imagenes/luz-cafetera.jpeg)
+Este es el botón y luz LED de una cafetera. El indicador señala que se está calentando o preparando el café. Una vez encendido, la placa alcanza una temperatura máxima constante para mantener la bebida caliente. A diferencia de un hervidor, esta botón no se apaga sola porque la cafetera no cuenta con apagado automático.
+
 ## 3. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
 encargo semana pasada; 

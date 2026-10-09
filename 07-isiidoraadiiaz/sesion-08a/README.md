@@ -334,6 +334,51 @@ encargo-08a:
 
 1. tomar muchas fotos, mínimo 3 por cada uno de los 3 elementos que estudiamos hoy: perillas, botones, y luces. subir las fotos a su README como respuesta a este encargo, y describirlas textualmente, para con esa info complejizar nuestras clases programadas este viernes.
 
+
+## Encargo 08a — Perillas, botones y luces
+
+### Perillas
+
+**1. Radio**
+
+![Perilla de radio](p-radio.png)
+
+Esta perilla sirve para buscar las distintas frecuencias de la radio. Al girarla vamos cambiando de estación y podemos moverla hacia ambos lados. Debajo tiene otra perilla más pequeña que permite elegir entre AM, FM y otras bandas.
+
+**2. Microondas**
+
+![Perilla de microondas](p-micro.png)
+
+Esta perilla permite regular el tiempo del microondas. Si la giramos hacia la derecha aumentamos el tiempo y si la giramos hacia la izquierda lo disminuimos. También tiene un botón debajo para seleccionar las funciones.
+
+### Botones
+
+**1. Ascensor**
+
+![Botón de ascensor](b-ascensor.png)
+
+Estos botones sirven para llamar al ascensor e indicar si queremos subir o bajar. Lo interesante es que cuando apretamos uno se ilumina, así sabemos que el ascensor recibió nuestra solicitud y no tenemos que seguir apretándolo.
+
+**2. Gimnasio**
+
+![Botón para llamar al profesor](b-gym.png)
+
+Este botón sirve para llamar a un profesor cuando tenemos alguna duda. Lo diferente es que hay que mantenerlo presionado durante 2 segundos para que funcione, no basta con apretarlo una vez rápidamente.
+
+**3. Micro**
+
+![Botón de micro](b-micro.png)
+
+Este botón sirve para avisarle al conductor que queremos bajar. Solo tenemos que apretarlo una vez y se activa la señal de parada, no es necesario mantenerlo presionado.
+
+### Luces
+
+**1. Mouse**
+
+![Luz del mouse](l-mouse.png)
+
+Esta luz está debajo del mouse y es parte del sensor que detecta el movimiento. A diferencia de otras luces, no está para iluminar o avisarnos de algo, sino para ayudar a que el mouse funcione.
+
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
 ## lectura

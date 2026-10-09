@@ -180,6 +180,7 @@ descripción: es la perilla del microondas de mi casa, tiene una multifunción e
 ![perilla lavadora](imagenes/perilla-lavadora.jpeg)
 
 descripción: es la perilla de mi lavadora tiene la pantallita al costado, en donde si la perrilla de la lavadora se gira en la pantallita se muestra las diferentes funciones de lavado (ropa de cama, ropa de bebé, lavado rápido, algodón, lavado y secado, entre otros)
+
 **perilla 3**
 
 ![perilla microondas trabajo](imagenes/perilla-microondas-blanco.jpeg)

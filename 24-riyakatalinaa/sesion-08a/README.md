@@ -225,7 +225,9 @@ descripción: los luce LED que se encuentran en  mi tele (venían ya incorporada
 
 ![luces led de tocador/vanity](imagenes/luces-led-vanity.jpeg)
 
-descripción: 
+descripción: son luces LED de mi vanity, es una especie de cadena en la cual vienen 10 lucecitas (LED), cuenta con 3 tonos de iluminación frío, cálido y neutra, también conectado en serie a través de un cableado transparente, y cuenta con un LED por foco
+
+
 
 ### intento de luces parpadeantes
 

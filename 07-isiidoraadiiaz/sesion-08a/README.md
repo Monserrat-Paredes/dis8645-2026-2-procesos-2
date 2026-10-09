@@ -341,13 +341,13 @@ encargo-08a:
 
 **1. Radio**
 
-![Perilla de radio](p-radio.png)
+![Perilla de radio](./imagenes/p-radio.png)
 
 Esta perilla sirve para buscar las distintas frecuencias de la radio. Al girarla vamos cambiando de estación y podemos moverla hacia ambos lados. Debajo tiene otra perilla más pequeña que permite elegir entre AM, FM y otras bandas.
 
 **2. Microondas**
 
-![Perilla de microondas](p-micro.png)
+![Perilla de microondas](./imagenes/p-micro.png)
 
 Esta perilla permite regular el tiempo del microondas. Si la giramos hacia la derecha aumentamos el tiempo y si la giramos hacia la izquierda lo disminuimos. También tiene un botón debajo para seleccionar las funciones.
 
@@ -355,19 +355,19 @@ Esta perilla permite regular el tiempo del microondas. Si la giramos hacia la de
 
 **1. Ascensor**
 
-![Botón de ascensor](b-ascensor.png)
+![Botón de ascensor](./imagenes/b-ascensor.png)
 
 Estos botones sirven para llamar al ascensor e indicar si queremos subir o bajar. Lo interesante es que cuando apretamos uno se ilumina, así sabemos que el ascensor recibió nuestra solicitud y no tenemos que seguir apretándolo.
 
 **2. Gimnasio**
 
-![Botón para llamar al profesor](b-gym.png)
+![Botón para llamar al profesor](./imagenes/b-gym.png)
 
 Este botón sirve para llamar a un profesor cuando tenemos alguna duda. Lo diferente es que hay que mantenerlo presionado durante 2 segundos para que funcione, no basta con apretarlo una vez rápidamente.
 
 **3. Micro**
 
-![Botón de micro](b-micro.png)
+![Botón de micro](./imagenes/b-micro.png)
 
 Este botón sirve para avisarle al conductor que queremos bajar. Solo tenemos que apretarlo una vez y se activa la señal de parada, no es necesario mantenerlo presionado.
 
@@ -375,7 +375,7 @@ Este botón sirve para avisarle al conductor que queremos bajar. Solo tenemos qu
 
 **1. Mouse**
 
-![Luz del mouse](l-mouse.png)
+![Luz del mouse](./imagenes/l-mouse.png)
 
 Esta luz está debajo del mouse y es parte del sensor que detecta el movimiento. A diferencia de otras luces, no está para iluminar o avisarnos de algo, sino para ayudar a que el mouse funcione.
 

@@ -83,6 +83,15 @@ encargo-08a:
   <img src="imagenes/teclado.jpeg" width="30%">
 </div>
 
+**Foto 1 Interruptor luz:** 
+
+* Descripción y funcionamiento: es el interruptor de mi pieza de estudio que solo enciende y apaga la luz.   
+* Estado: encendido (1) y apagado (0)
+
+**Foto 2 modelo de café:** 
+
+* Descripción y funcionamiento: este molesto café tiene una perilla que ayuda a cuan molido quieres que esté el café, ya que no todos los cafés se hacen con el mismo molido, ayuda a la intensidad, etc.   
+* Estado: Va girando y se detiene en el número que tu escojas.
 
 
 3. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.

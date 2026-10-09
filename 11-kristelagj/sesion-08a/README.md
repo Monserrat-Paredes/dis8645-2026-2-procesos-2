@@ -54,6 +54,37 @@ encargo-08a:
 
 1. tomar muchas fotos, mínimo 3 por cada uno de los 3 elementos que estudiamos hoy: perillas, botones, y luces. subir las fotos a su README como respuesta a este encargo, y describirlas textualmente, para con esa info complejizar nuestras clases programadas este viernes.
 
-2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
+<div align="center">
+  <img src="imagenes/boton-luz.jpeg" width="30%">
+  <img src="imagenes/cafetera.jpeg" width="30%">
+  <img src="imagenes/citofono.jpeg" width="30%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imagenes/cocina.jpeg" width="30%">
+  <img src="imagenes/guitarra.jpeg" width="30%">
+  <img src="imagenes/internet.jpeg" width="30%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imagenes/mouse.jpeg" width="30%">
+  <img src="imagenes/parlante.jpeg" width="30%">
+  <img src="imagenes/radio.jpeg" width="30%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imagenes/tableta.jpeg" width="30%">
+  <img src="imagenes/teclado.jpeg" width="30%">
+</div>
+
+
+
+3. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
 ## lectura

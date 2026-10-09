@@ -58,6 +58,20 @@ FOTOS ENCARGO
 
 ![lavadora-botones](./lavadora.jpeg)
 
+![perilla1](./perilla1.jpeg)
+
+![horno](./horno.jpeg)
+
+![microondas](./microondas.jpeg)
+
+![oster](./oster.jpeg)
+
+![luz-del-compu](./luz-computador.jpeg)
+
+![control-rojo](./control-rojo.jpeg)
+
+![control-amarillo](./control-amarillo.jpeg)
+
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
 ## lectura

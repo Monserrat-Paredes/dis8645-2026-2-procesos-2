@@ -52,9 +52,9 @@ encargo-08a:
 
 FOTOS ENCARGO
 
-![secadora-perilla](./secadora-perilla.png)
-![secadora-botones](./secadora-botones.png)
-![lavadora-botones](./lavadora.png)
+![secadora-perilla](./secadora-perilla.jpeg)
+![secadora-botones](./secadora-botones.jpeg)
+![lavadora-botones](./lavadora.jpeg)
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 

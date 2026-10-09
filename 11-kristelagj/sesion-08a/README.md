@@ -54,6 +54,46 @@ encargo-08a:
 
 1. tomar muchas fotos, mínimo 3 por cada uno de los 3 elementos que estudiamos hoy: perillas, botones, y luces. subir las fotos a su README como respuesta a este encargo, y describirlas textualmente, para con esa info complejizar nuestras clases programadas este viernes.
 
-2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
+<div align="center">
+  <img src="imagenes/boton-luz.jpeg" width="30%">
+  <img src="imagenes/cafetera.jpeg" width="30%">
+  <img src="imagenes/citofono.jpeg" width="30%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imagenes/cocina.jpeg" width="30%">
+  <img src="imagenes/guitarra.jpeg" width="30%">
+  <img src="imagenes/internet.jpeg" width="30%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imagenes/mouse.jpeg" width="30%">
+  <img src="imagenes/parlante.jpeg" width="30%">
+  <img src="imagenes/radio.jpeg" width="30%">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="imagenes/tableta.jpeg" width="30%">
+  <img src="imagenes/teclado.jpeg" width="30%">
+</div>
+
+**Foto 1 Interruptor luz:** 
+
+* Descripción y funcionamiento: es el interruptor de mi pieza de estudio que solo enciende y apaga la luz.   
+* Estado: encendido (1) y apagado (0)
+
+**Foto 2 moledora de café:** 
+
+* Descripción y funcionamiento: este molesto café tiene una perilla que ayuda a cuan molido quieres que esté el café, ya que no todos los cafés se hacen con el mismo molido, ayuda a la intensidad, etc.   
+* Estado: Va girando y se detiene en el número que tu escojas.
+
+
+3. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
 ## lectura

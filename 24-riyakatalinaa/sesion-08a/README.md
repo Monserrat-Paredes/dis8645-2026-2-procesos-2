@@ -232,7 +232,7 @@ descripción: son luces LED de mi vanity, es una especie de cadena en la cual vi
 
 ### intento de luces parpadeantes
 
-la verdad no tuve tiempo de hacer esta parte del encargo, estuve con muchas cosas en la práctica y se me olvido hacerlo :(
+la verdad no tuve tiempo de hacer esta parte del encargo, estuve con muchas cosas en la práctica y se me olvido hacerlo :(, y la verdad no quiero recurrir a la IA para solo entregarlo y tener el "7" o el punto completo en este encargo
 
 ## lectura
 nos dejaron elegir un libro para leer durante el semestre en el cual debemos dejar 2 citas por clase y leer mínimo 100 paginas durante el semestre

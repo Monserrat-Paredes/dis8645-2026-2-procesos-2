@@ -84,7 +84,7 @@ make: *** [Makefile:91: all] Error 2
 Error: Process exited with 2
 ```
 
-al estar con sueño, no leí en realidad lo que me decía que estaba mal, y me confundía ver que me mencionaba el void de parpadear, hasta que revisé side to side el código de _Lucecita.cpp_ que anoté yo y el de mi compañero, en donde noté un cambio importante: la solución agregar ``#include "pico/stdlib.h"`` en _Lucecita.cpp_ lol.
+al estar con sueño, no leí en realidad lo que me decía que estaba mal, y me confundía ver que me mencionaba el void de parpadear, hasta que revisé side to side el código de _Lucecita.cpp_ que anoté yo y el de mi compañero, en donde noté un cambio importante: el problema era que me faltaba agregar el ``#include "pico/stdlib.h"`` en _Lucecita.cpp_ lol.
 
 dejaré el trabajo en la carpeta, pero quiero volver a esto en algún momento para lograr hacer funcionar el botón para que prenda y apague todo. pido disculpas por no poder tener el encargo a tiempo, pero quiero que sepan que no es por falta de interés, sino por atados externos.
 

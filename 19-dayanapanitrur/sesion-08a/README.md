@@ -34,8 +34,6 @@ encargo-08a:
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 
-https://wokwi.com/projects/477335809803977729 (para que no se me pierda)
-
-
+https://wokwi.com/projects/477335809803977729
 
 ## lectura

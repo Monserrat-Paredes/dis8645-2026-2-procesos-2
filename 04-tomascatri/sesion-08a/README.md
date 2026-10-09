@@ -10,7 +10,7 @@ encargo-08a:
 
 2. partir del ejemplo de hoy, que está subido en codigos/ de hoy, y hacer que las luces parpadeen. para eso, definir parpadeo de forma paramétrica.
 ---
-
+**Encargo de código creado con IA, adjunto fuente de conversación: https://share.gemini.google/kJ7kXxVQrdcC**
 > **Código:** El código correspondiente se encuentra en la carpeta [`codigo/tarea-parpadeo`](https://github.com/tomascatri/dis8645-2026-2-procesos-2/tree/main/04-tomascatri/sesion-08a/codigo/tarea-parpadeo).
 --- 
 
